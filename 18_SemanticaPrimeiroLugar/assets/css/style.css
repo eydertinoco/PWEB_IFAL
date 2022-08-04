@@ -5,12 +5,12 @@ body {
     width: 940px;
 }
 
-h1 {
+.titulo {
     background-color: #E1EDF2;
     padding: 10px;
 }
 
-h2 {
+.subtitulo {
     border-bottom: 2px solid black;
 }
 
