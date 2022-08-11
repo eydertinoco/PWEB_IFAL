@@ -1,0 +1,62 @@
+body {
+    font-family: "Helvetica", "Lucida Grande", sans-serif;
+    color: #3D3D3D;
+    margin: 0 auto;
+    width: 940px;
+}
+
+p {
+    text-align: justify;
+}
+
+header ul {
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+header ul li {
+    margin: 0 10px;
+}
+
+.titulo {
+    background-color: #E1EDF2;
+    padding: 10px;
+}
+
+.subtitulo {
+    border-bottom: 2px solid black;
+}
+
+figure {
+    text-align: center;
+    background-color: whitesmoke;
+    border: 1px solid lightgrey;
+    padding: 15px;
+    margin: 30px;
+}
+
+figcaption {
+    margin-top: 10px;
+}
+
+.imagemCentral {
+    width: 550px;
+    margin: 0 auto;
+}
+.imagemLateral {
+    width: 275px;
+    float: right;
+}
+
+figure img {
+    width: 100%;
+}
+
+.contato__subtitulo {
+    display: inline;
+}
+.contato__info {
+    margin: 16px 0 24px;
+    padding-left: 32px;
+}
